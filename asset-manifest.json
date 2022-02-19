@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tour_destination_site/static/css/main.c8b6d1d7.css",
+    "main.js": "/tour_destination_site/static/js/main.a93fb7b4.js",
+    "index.html": "/tour_destination_site/index.html",
+    "main.c8b6d1d7.css.map": "/tour_destination_site/static/css/main.c8b6d1d7.css.map",
+    "main.a93fb7b4.js.map": "/tour_destination_site/static/js/main.a93fb7b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b6d1d7.css",
+    "static/js/main.a93fb7b4.js"
+  ]
+}
